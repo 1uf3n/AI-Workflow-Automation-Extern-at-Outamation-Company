@@ -17,7 +17,7 @@ It focuses on building an AI-driven pipeline that automates classification, retr
 - `cleaned_text_sample.txt`: OCR-extracted text sample  
 - `extracted_loan_data.json`: Structured JSON output from pipeline  
 
-### Code/
+### Code
 - `Advanced PDF Retr...ipynb`: Advanced retrieval with LlamaIndex  
 - `Analyze a Scanned PDF.ipynb`: OCR + text extraction workflow  
 - `Cleaning Loan Data.ipynb`: Data cleaning and preprocessing  
@@ -70,5 +70,5 @@ It focuses on building an AI-driven pipeline that automates classification, retr
 ## Author  
 **Rebecca (Lufan Wang)**  
 AI Workflow Automation Extern @ Outamation  
-- LinkedIn: [(https://www.linkedin.com/in/lufanw )]  
+- LinkedIn: [https://www.linkedin.com/in/lufanw]  
 - Email: [1uf3nnn@gmail.com]  
